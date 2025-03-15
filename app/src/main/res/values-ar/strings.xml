@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">قارئ الأخبار</string>
+    <string name="news_feed">موجز الأخبار</string>
+    <string name="news_detail">تفاصيل الخبر</string>
+    <string name="published_on">تاريخ النشر:</string>
+    <string name="bookmark">حفظ</string>
+    <string name="theme_icon">رمز السمة</string>
+    <string name="no_title">لا يوجد عنوان</string>
+
+    <string name="news1">عاجل: Jetpack Compose هو المستقبل!</string>
+    <string name="news1_content">Jetpack Compose يحدث ثورة في تطوير الواجهات بفضل بنية التصريح السهل والأداء الفائق.</string>
+
+    <string name="news2">إصدار أندرويد 14!</string>
+    <string name="news2_content">أندرويد 14 يجلب تحسينات أمنية، عمر بطارية أطول، وميزات جديدة رائعة للمطورين.</string>
+
+    <string name="news3">Flutter مقابل Compose: من يفوز؟</string>
+    <string name="news3_content">المطورون يناقشون أيهما الأفضل: Flutter أم Jetpack Compose لتطوير الواجهات.</string>
+
+    <string name="news4">الذكاء الاصطناعي في تطوير التطبيقات</string>
+    <string name="news4_content">الذكاء الاصطناعي يغير مستقبل التطبيقات الذكية ويجعلها أكثر كفاءة وسهولة في الاستخدام.</string>
+
+    <string name="news5">التقدم في الحوسبة الكمومية</string>
+    <string name="news5_content">اكتشافات جديدة في الحوسبة الكمومية قد تغير عالم الأمن السيبراني والذكاء الاصطناعي.</string>
+
+    <string name="news6">تسلا تعلن عن طراز جديد</string>
+    <string name="news6_content">كشفت تسلا عن أحدث سياراتها الكهربائية ببطارية أطول مدى وقدرات قيادة ذاتية متطورة.</string>
+
+    <string name="news7">المسبار المريخي يكتشف الجليد</string>
+    <string name="news7_content">اكتشف مسبار ناسا رواسب جليدية على سطح المريخ، مما يعزز فرص استكشاف الإنسان له.</string>
+
+    <string name="news8">جوجل تطلق محرك بحث بالذكاء الاصطناعي</string>
+    <string name="news8_content">كشفت جوجل عن محرك بحث جديد مدعوم بالذكاء الاصطناعي لتحسين دقة النتائج.</string>
+
+    <string name="news9">سبيس إكس تطلق مهمة جديدة</string>
+    <string name="news9_content">نجحت سبيس إكس في إطلاق مهمة جديدة، حيث أرسلت أقمارًا صناعية إلى المدار لتوفير الإنترنت العالمي.</string>
+
+    <string name="news10">تكنولوجيا البلوكشين في البنوك</string>
+    <string name="news10_content">بدأت البنوك في تبني تقنية البلوكشين لتسريع المعاملات وجعلها أكثر أمانًا.</string>
+
+    <string name="default_content">هذا المقال غير متوفر حاليًا.</string>
+</resources>

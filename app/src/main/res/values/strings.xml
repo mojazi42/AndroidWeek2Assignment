@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="news_feed">News Feed</string>
+    <string name="news_detail">News Detail</string>
+    <string name="published_on">Published on:</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="theme_icon">Theme Icon</string>
+    <string name="no_title">No Title</string>
+
+    <string name="news1">Breaking: Compose is the Future!</string>
+    <string name="news1_content">Jetpack Compose is revolutionizing UI development with declarative syntax and better performance.</string>
+
+    <string name="news2">Android 14 Released!</string>
+    <string name="news2_content">Android 14 brings enhanced security, better battery life, and exciting new features for developers.</string>
+
+    <string name="news3">Flutter vs Compose: Who Wins?</string>
+    <string name="news3_content">Developers are debating whether Flutter or Jetpack Compose is the better framework for UI development.</string>
+
+    <string name="news4">AI in Mobile Development</string>
+    <string name="news4_content">Artificial Intelligence is transforming mobile apps, making them smarter and more user-friendly.</string>
+
+    <string name="news5">Quantum Computing Advances</string>
+    <string name="news5_content">New breakthroughs in quantum computing could change the world of cybersecurity and AI.</string>
+
+    <string name="news6">Tesla Announces New Model</string>
+    <string name="news6_content">Tesla has unveiled its newest electric vehicle, boasting an extended battery range and autonomous capabilities.</string>
+
+    <string name="news7">Mars Rover Discovers Ice</string>
+    <string name="news7_content">NASAs Mars rover has found evidence of ice deposits, raising hopes for future human exploration.</string>
+
+    <string name="news8">Google Unveils AI Search</string>
+    <string name="news8_content">Google has introduced a new AI-powered search engine to deliver even more accurate results.</string>
+
+    <string name="news9">SpaceX Launches New Mission</string>
+    <string name="news9_content">SpaceX has successfully launched another mission, sending satellites into orbit for global internet access.</string>
+
+    <string name="news10">Blockchain Technology in Banking</string>
+    <string name="news10_content">Banks are starting to adopt blockchain for faster, more secure transactions.</string>
+
+    <string name="default_content">This article is currently unavailable.</string>
+</resources>
